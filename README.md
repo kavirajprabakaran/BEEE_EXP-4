@@ -40,12 +40,32 @@ Half wave rectifier with filter:
 
 Bridge rectifier with filter:
 
+![WhatsApp Image 2026-03-11 at 8 36 48 PM (1)](https://github.com/user-attachments/assets/1f05ceef-cef0-4d63-8c2f-99c0c973d946)
+
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+![WhatsApp Image 2026-03-11 at 8 36 48 PM](https://github.com/user-attachments/assets/7fe779b2-4974-4cb9-b945-e28c666534ab)
 
 WAVEFORM:
+
+![WhatsApp Image 2026-03-11 at 8 36 49 PM](https://github.com/user-attachments/assets/64fae075-099a-4b4c-9884-240ae2eda50b)
+
+<img width="358" height="213" alt="image" src="https://github.com/user-attachments/assets/9ac3f504-ef27-4a4c-a2de-dce0497366a6" />
+
+<img width="466" height="298" alt="image" src="https://github.com/user-attachments/assets/b980c7ea-40ab-45ab-9efd-fc582f637af7" />
+
+<img width="441" height="287" alt="Screenshot 2026-03-11 203958" src="https://github.com/user-attachments/assets/ced39392-320b-4ea2-9482-bec9378db683" />
+
+<img width="472" height="292" alt="image" src="https://github.com/user-attachments/assets/a45cbd74-d5dc-4224-ad7c-6903297790e3" />
+
+<img width="463" height="372" alt="Screenshot 2026-03-11 203029" src="https://github.com/user-attachments/assets/f9850663-ec16-4427-ae48-e700f0f20a1d" />
+
+<img width="471" height="299" alt="image" src="https://github.com/user-attachments/assets/08ef761c-1b57-4149-8f05-756726e8ccda" />
+
+<img width="491" height="388" alt="Screenshot 2026-03-11 203425" src="https://github.com/user-attachments/assets/574375d4-c92b-4e00-8fa3-4cb096c901cb" />
+
+
+<img width="468" height="297" alt="image" src="https://github.com/user-attachments/assets/2ea49fa1-cd7e-4fd5-9c00-ad2d4ad05643" />
 
 
 RESULT:
